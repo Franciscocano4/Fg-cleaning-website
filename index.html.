@@ -164,7 +164,7 @@ header{
 
     linear-gradient(90deg,rgba(7,27,58,.96),rgba(7,27,58,.82)),
 
-    url('fg-logo.png');
+    url('FGcleaning logo.pgn.png');
 
   background-size:cover;
 
@@ -824,7 +824,7 @@ footer p{
 
     <a href="#">
 
-      <img src="fg-logo.png" class="logo" alt="FG Cleaning">
+      <img src="FGcleaning logo.pgn.png" class="logo" alt="FG Cleaning">
 
     </a>
 
@@ -894,7 +894,7 @@ footer p{
 
     <div class="hero-logo">
 
-      <img src="fg-logo.png" alt="FG Cleaning Professional Commercial Cleaning">
+      <img src="FGcleaning logo.pgn.png" alt="FG Cleaning Professional Commercial Cleaning">
 
     </div>
 
@@ -1218,7 +1218,7 @@ footer p{
 
   <div class="container footer-content">
 
-    <img src="fg-logo.png" class="footer-logo" alt="FG Cleaning">
+    <img src="FGcleaning logo.pgn.png" class="footer-logo" alt="FG Cleaning">
 
     <p>
 
